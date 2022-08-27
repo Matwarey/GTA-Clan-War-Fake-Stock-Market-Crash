@@ -1,0 +1,15 @@
+{
+  "name": "Crash GTA Drink Stock Market",
+  "version": "1.0.0",
+  "description": "Crash The GTA Drink Stock Market",
+  "main": "index.js",
+  "scripts": {
+    "main": "node ."
+  },
+  "keywords": [],
+  "author": "Matwarey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
